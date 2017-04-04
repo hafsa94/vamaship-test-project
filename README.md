@@ -1,0 +1,1 @@
+# vamaship-test-project
